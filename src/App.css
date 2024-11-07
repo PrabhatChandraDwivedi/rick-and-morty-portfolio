@@ -1,0 +1,53 @@
+/* Navbar.css */
+.navbar {
+  background: #2E2A33;
+  color: #00FF00;
+}
+
+/* HeroSection.css */
+.hero {
+  /* background: url('/assets/portal-bg.jpg') no-repeat center center; */
+  color: #FFFFFF;
+}
+
+.project-card {
+  background: #2A2B3A;
+  color: #FFFFFF;
+  transition: transform 0.2s;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  border: 2px solid #00FF00;
+}
+
+.about-section {
+  padding: 20px;
+  background-color: #2E2A33;
+  color: #ffffff;
+  margin: 20px 0;
+}
+
+.about-section h2 {
+  color: #00FF00;
+}
+.contact-section {
+  padding: 20px;
+  background-color: #2E2A33;
+  color: #ffffff;
+  margin: 20px 0;
+}
+
+.contact-section h2 {
+  color: #00FF00;
+}
+
+.contact-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact-section ul li {
+  margin: 5px 0;
+}
+

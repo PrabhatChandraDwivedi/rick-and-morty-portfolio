@@ -1,0 +1,23 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    color: #FFFFFF;
+    /* background: #2E2A33 url('../assets/portal.jpg') no-repeat; */
+    background-size: cover;
+}
+
+.hero-text h2 {
+    font-size: 2.5em;
+    line-height: 1.2;
+}
+
+.hero-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #00FF00;
+    color: #000;
+    cursor: pointer;
+    border-radius: 20px;
+}

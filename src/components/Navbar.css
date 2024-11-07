@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.navbar-logo {
+    font-size: 24px;
+    color: #FF69B4; /* Pink color */
+    font-weight: bold;
+}
+
+.navbar-links {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-links a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.navbar-contact {
+    border: 1px solid #FF69B4;
+    padding: 8px 16px;
+    border-radius: 20px;
+}
