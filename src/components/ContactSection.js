@@ -2,7 +2,7 @@ import React from 'react';
 // import './ContactSection.css';
 
 const ContactSection = () => (
-    <section className="contact-section">
+    <section className="contact-section text-white">
         <h2>Contact Me</h2>
         <p>
             Feel free to reach out if you're interested in working together or just want to chat about interdimensional coding!

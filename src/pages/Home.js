@@ -1,15 +1,16 @@
 import React from 'react';
 import HeroSection from '../components/HeroSection';
 import WorkSection from '../components/WorkSection';
-import AboutSection from '../components/AboutSection';
+import AboutSection from '../components/AboutSection.js';
 import ContactSection from '../components/ContactSection';
 
 const Home = () => (
     <div style={{background:"black"}}>
         <HeroSection />
         <WorkSection />
-        <AboutSection />
+        <AboutSection /> 
         <ContactSection />
+        
     </div>
 );
 
