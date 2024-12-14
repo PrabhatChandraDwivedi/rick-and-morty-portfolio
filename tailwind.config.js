@@ -17,6 +17,21 @@ module.exports = {
           },
         },
       },
+      colors: {
+        'pink-accent': '#ff66cc',
+        'blue-accent': '#66ccff',
+        'yellow-accent': '#ffcc66',
+        'purple-accent': '#aa66ff',
+      },
+      backgroundImage: {
+        'about-gradient': 'linear-gradient(to bottom right, #2f004b, #000000, black)',
+      },
+      borderRadius: {
+        'lg': '10px',
+      },
+      boxShadow: {
+        'about-shadow': '0px 4px 20px rgba(0, 0, 0, 0.3)',
+      },
     },
   },
   plugins: [],
