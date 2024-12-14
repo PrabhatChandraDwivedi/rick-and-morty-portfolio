@@ -24,7 +24,7 @@ const HeroSection = () => (
       </button>
     </div>
 
-    <div className="mt-8 md:mt-0 md:ml-8 flex-1 flex justify-center">
+    <div className="mt-8 md:mt-16 md:ml-8 flex-1 flex justify-center">
       <ProfilePic />
     </div>
   </section>
